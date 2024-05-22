@@ -1,0 +1,8 @@
+12:23:25.478 [main] INFO  resources.Base - Navigated to Home page
+12:23:25.533 [main] INFO  resources.Base - Succesfully validated text message
+12:29:45.039 [TestNG] INFO  resources.Base - Driver is initialized
+12:29:49.226 [TestNG] INFO  resources.Base - Navigated to Home page
+12:29:49.246 [TestNG] INFO  resources.Base - Navigation bar is displayed
+12:29:49.291 [TestNG] INFO  resources.Base - Succesfully validated text message
+12:29:54.472 [TestNG] INFO  resources.Base - nonrestricted
+12:30:07.653 [TestNG] INFO  resources.Base - restricted
